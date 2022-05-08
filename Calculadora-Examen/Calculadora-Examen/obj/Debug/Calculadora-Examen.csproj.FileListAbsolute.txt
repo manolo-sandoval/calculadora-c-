@@ -1,0 +1,10 @@
+C:\Users\Crist\source\repos\Calculadora-Examen\Calculadora-Examen\bin\Debug\Calculadora-Examen.exe.config
+C:\Users\Crist\source\repos\Calculadora-Examen\Calculadora-Examen\bin\Debug\Calculadora-Examen.exe
+C:\Users\Crist\source\repos\Calculadora-Examen\Calculadora-Examen\bin\Debug\Calculadora-Examen.pdb
+C:\Users\Crist\source\repos\Calculadora-Examen\Calculadora-Examen\obj\Debug\Calculadora-Examen.csproj.AssemblyReference.cache
+C:\Users\Crist\source\repos\Calculadora-Examen\Calculadora-Examen\obj\Debug\Calculadora_Examen.Form1.resources
+C:\Users\Crist\source\repos\Calculadora-Examen\Calculadora-Examen\obj\Debug\Calculadora_Examen.Properties.Resources.resources
+C:\Users\Crist\source\repos\Calculadora-Examen\Calculadora-Examen\obj\Debug\Calculadora-Examen.csproj.GenerateResource.cache
+C:\Users\Crist\source\repos\Calculadora-Examen\Calculadora-Examen\obj\Debug\Calculadora-Examen.csproj.CoreCompileInputs.cache
+C:\Users\Crist\source\repos\Calculadora-Examen\Calculadora-Examen\obj\Debug\Calculadora-Examen.exe
+C:\Users\Crist\source\repos\Calculadora-Examen\Calculadora-Examen\obj\Debug\Calculadora-Examen.pdb
